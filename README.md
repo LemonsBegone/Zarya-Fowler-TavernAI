@@ -1,5 +1,8 @@
 # Zarya-Fowler-TavernAI
 
+Zarya is the main character from the novel I'm writing.
+
+For my AP CompSci A final project, we were tasked with working with an AI, whether that be by implementing it into Java code or doing something like me, where I worked with and created a mini-AI-chatbot of my own. Honestly, I'm really hoping I get an A on this...
 
 HOW TO GET TAVERNAI WORKING WITH KOBOLDAI (RECCOMENDED):
 https://github.com/TavernAI/TavernAI/wiki/How-to-install
